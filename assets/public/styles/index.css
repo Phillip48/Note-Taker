@@ -1,0 +1,40 @@
+
+
+
+.top {
+  display: flex;
+  align-items: center;
+  height: 4rem;
+  width: 100%;
+  padding: 1rem;
+  background-color: cornflowerblue;
+}
+/* 
+.body-section {
+  width: 80%;
+  height: 15rem;
+} */
+
+.body-words {
+  /* height: auto;
+  width: 70%; */
+  padding: .5rem;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.text-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-get {
+  height: 3rem;
+  width: 10rem;
+}
