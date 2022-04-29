@@ -1,10 +1,10 @@
 // Require
 const express = require('express');
-const apiRoutes = require('../ROUTES/apiRoutes');
-const htmlRoutes = require('../ROUTES/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
 // initalize the app and create a port
-const app = require('express');
+const app = express();
 const PORT = process.env.PORT || 3001;
 
 // Body parsing, Route and middleware
