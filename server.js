@@ -17,5 +17,10 @@ app.use('/api', apiRoutes);
 
 app.use('/', htmlRoutes);
 
+// Wildcard route to direct users to a 404 page
+// app.get('*', (req, res) =>
+//   res.sendFile(path.join(__dirname, '/public/404.html'))
+// );
+
 // start the server on the port
 app.listen(PORT, () => console.log(`This port is listening at ${PORT}`));
