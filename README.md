@@ -11,11 +11,15 @@
 
 ## Description  
 Ever need to write notes? Of course you do! I mean how can you remeber everything? This project is to give you the ability to write notes and save your notes. Then if you exit the application your notes will still be saved.  
+[Live Link](https://dashboard.heroku.com/apps/guarded-castle-79902)
 
 ## Images  
-![Img 1](./public/assets/img/nt1.png)  
+![Img 1](./public/assets/img/nt1.png) 
+Home page  
 ![Img 2](./public/assets/img/nt2.png)  
+Making a note  
 ![Img 3](./public/assets/img/nt3.png) 
+Note made  
 
 ## Installation     
 `git clone git@github.com:Phillip48/Note-Taker.git`  
