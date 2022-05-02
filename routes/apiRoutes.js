@@ -42,7 +42,7 @@ router.post('/notes', (req, res) => {
 
 
 // // DELETE 
-// router.delete('/notes/:id', (req, res) => {
+// router.delete('/notes:id', (req, res) => {
 //     const noteId = req.params.tip_id;
 //     readFromFile('./db/db.json')
 //         .then((data) => JSON.parse(data))
