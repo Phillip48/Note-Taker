@@ -1,6 +1,6 @@
 // Require
 const express = require('express');
-const apiRoutes = require('./tmp/apiRoutes');
+const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
 
 // initalize the app and create a port
