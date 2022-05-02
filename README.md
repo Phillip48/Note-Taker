@@ -11,7 +11,7 @@
 
 ## Description  
 Ever need to write notes? Of course you do! I mean how can you remeber everything? This project is to give you the ability to write notes and save your notes. Then if you exit the application your notes will still be saved.  
-[Live Link](https://dashboard.heroku.com/apps/guarded-castle-79902)
+[Live Link](https://guarded-castle-79902.herokuapp.com/)
 
 ## Images  
 ![Img 1](./public/assets/img/nt1.png) 
